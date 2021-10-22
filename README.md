@@ -13,7 +13,7 @@
 
 ## Creación de la práctica
 
-1. Importe mis assets a través del package manager. Y corregí el error de la standar assets para poder utilizarla
+1. Importe mis assets a través del package manager y corregí el error de la standar assets para poder utilizarla
 
 2. Cree el terreno
   - Modifique el tamaño del terreno para que en vez de ser 1000 x 1000 fuera 20 x 20
@@ -34,5 +34,5 @@
 
 ## Conclusión
 
-Unity dispone de una interfaz muy amplia y de muchísimas herramientas para modificar miles de parámetros. A veces se hace lioso poner los objetos en la escena y tienes que fijarte bien por si no los estas poniendo donde querías. Pero tiene muchísima documentación. Eche de menos en el motor gráfico tener assets gratuitos de mejor calidad. Creo que el motor unity te da miles de posibilidades para desarrollar pero son tantas que no es algo que se aprenda en dos días.
+Unity dispone de una interfaz muy amplia y de muchísimas herramientas para modificar miles de parámetros. A veces se hace lioso poner los objetos en la escena y tienes que fijarte bien por si no los estas poniendo donde querías, pero tiene muchísima documentación. Eche de menos en el motor gráfico tener assets gratuitos de mejor calidad. Creo que el motor unity te da miles de posibilidades para desarrollar pero son tantas que no es algo que se aprenda en dos días.
 
