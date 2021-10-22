@@ -2,7 +2,8 @@
 ![gif](img/gif.gif)
 
 - Autor: Adal Díaz Fariña
-- alu0101112251
+- Alu: alu0101112251
+- Unity proyect: https://drive.google.com/file/d/1DWUd6rQXG3jEk6mhGe6w3pX53PXN0qk-/view?usp=sharing
 
 ## Assets
 
